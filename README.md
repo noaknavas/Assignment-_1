@@ -1,3 +1,6 @@
+# ASSIGNMENT_1
+
+
 # Task 1: Basic Calculator
 
 This is a simple calculator program that takes two numbers from the user and performs basic math operations on them. It calculates the sum, difference, product, and quotient of the two numbers and displays all the results at once. Pretty straightforward - just enter your numbers and get all four operations done in one go.
